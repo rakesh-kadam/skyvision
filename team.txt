@@ -49,38 +49,61 @@
       </header>
       <section>
          <!-- CAROUSEL -->  
+         
+         <!-- HOME PAGE BLOCK -->      
          <div class="line">
             <div class="margin">
                
                <div class="s-12 m-6 l-4 margin-bottom">
+                  
                   <div class="box">
-                     <h2>Projects</h2>
-                     <img src="img/ayman.jpeg" alt="Ayeman" >
-                     <p>Ayeman</p>
+                     
+                     <h2>Managment</h2>
+                     <div class="item">
+                        <img src="img/osama.jpeg" alt="Osama">
+                        <p>Eng.Osama Amasha</p>
+                     </div>
+                     
+                  </div>
+
+               </div>
+               
+      
+               
+               <div class="s-12 m-6 l-4 margin-bottom">
+                  
+                  <div class="box">
+                     
+                     <h2>IT</h2>
+                     
+                     <div class="item">
+                        <img src="img/rakesh.jpeg" alt="Rakesh Kadam">
+                        <p> Rakesh Kadam</p>
+                     </div>
+                  
                   </div>
                </div>
                
                <div class="s-12 m-6 l-4 margin-bottom">
+                  
                   <div class="box">
-                     <h2>Managment</h2>
-                     <img src="img/osama.jpeg" alt="Osama">
-                     <p>Eng.Osama Amasha</p>                  
-                  </div>
-               </div>
+                     
+                     <h2>Projects</h2>
+                     
+                     <div class="item">
+                        
+                        <img src="img/ayman.jpeg" alt="Ayeman">
+                        <p>Ayeman</p>
+                     </div>
+                        
 
-               <div class="s-12 m-6 l-4 margin-bottom">
-                  <div class="box">
-                     <h2>IT</h2>
-                     <img src="img/rakesh.jpeg" alt="Rakesh Kadam">
-                        <p> Rakesh Kadam</p>
                   </div>
+
                </div>
-             
+               
+
             </div>
          </div>
-         
-         <!-- HOME PAGE BLOCK -->      
-        
          <!-- ASIDE NAV AND CONTENT -->
 
          <!-- GALLERY CAROUSEL -->
